@@ -1,0 +1,14 @@
+C:\repos\predavanje1\Edu\bin\Debug\net8.0\Edu.exe
+C:\repos\predavanje1\Edu\bin\Debug\net8.0\Edu.deps.json
+C:\repos\predavanje1\Edu\bin\Debug\net8.0\Edu.runtimeconfig.json
+C:\repos\predavanje1\Edu\bin\Debug\net8.0\Edu.dll
+C:\repos\predavanje1\Edu\bin\Debug\net8.0\Edu.pdb
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.AssemblyInfoInputs.cache
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.AssemblyInfo.cs
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.csproj.CoreCompileInputs.cache
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.dll
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\refint\Edu.dll
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.pdb
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\Edu.genruntimeconfig.cache
+C:\repos\predavanje1\Edu\obj\Debug\net8.0\ref\Edu.dll
