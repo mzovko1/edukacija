@@ -1,0 +1,14 @@
+C:\Edukacija\Zadatak1\Zadatak1\bin\Debug\net8.0\Zadatak1.exe
+C:\Edukacija\Zadatak1\Zadatak1\bin\Debug\net8.0\Zadatak1.deps.json
+C:\Edukacija\Zadatak1\Zadatak1\bin\Debug\net8.0\Zadatak1.runtimeconfig.json
+C:\Edukacija\Zadatak1\Zadatak1\bin\Debug\net8.0\Zadatak1.dll
+C:\Edukacija\Zadatak1\Zadatak1\bin\Debug\net8.0\Zadatak1.pdb
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.AssemblyInfoInputs.cache
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.AssemblyInfo.cs
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.dll
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\refint\Zadatak1.dll
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.pdb
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\Zadatak1.genruntimeconfig.cache
+C:\Edukacija\Zadatak1\Zadatak1\obj\Debug\net8.0\ref\Zadatak1.dll
